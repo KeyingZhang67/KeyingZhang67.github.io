@@ -5,15 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-
-<style>
-td {
-  text-align: left;
-}
-</style>
-
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
+<tr>
+## 2023
+</tr>
 <tr>
 	<td style="border: none;">
 	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
@@ -50,16 +46,9 @@ td {
 		</p>
 	</td>
 </tr>
-</table>    
-</div>
-
-
-
-
-
+<tr>
 ## Thesis
-<div align="left">
-<table style="border: none;" cellpadding="0" cellspacing="0">
+</tr>
 <tr>
 	<td style="border: none;">
 	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
