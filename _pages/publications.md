@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## 2023
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
