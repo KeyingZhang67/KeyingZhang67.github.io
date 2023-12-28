@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Patents"
 permalink: /patents/
 author_profile: true
 toc: true
