@@ -41,26 +41,26 @@ author_profile: true
 
 
 ## Software Patents
-**Lightning Protection Verification System**
+**Lightning Protection Verification System(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**Creepage Distance Verification System**
+**Creepage Distance Verification System(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**Load Flow Verification System**
+**Load Flow Verification System(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**Operating Condition Simulation Verification System v1**
+**Operating Condition Simulation Verification System v1(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**Operating Condition Simulation Verification System v2**
+**Operating Condition Simulation Verification System v2(Chinese)**
 <br/>
 *Ranked Second, Under Review*

@@ -17,7 +17,7 @@ Projects
 I have presided over the following projects in China Southern Power Grid Digital Power Grid Group Co., Ltd since 2022:
 * *Jun. 2022 to Dec. 2023*, Intelligent Algorithms for Disaster Prevention and Mitigation in the Transmission of New Power System, *￥2,850k*
 * *Sep. 2022 to Sep. 2024*, 3D Pointcloud Based Big Data Algorithms for Disaster Prevention and Mitigation in Transmission Lines, *￥4,860k*
-* *Dec. 2023 to Dec. 2025*, Load Verification Techniques for Transmission Lines Based on Multi-Source Data, ￥1,550k
+* *Dec. 2023 to Dec. 2025*, Load Verification Techniques for Transmission Lines Based on Multi-Source Data, *￥1,550k*
 
 I have involved in the following projects in China Southern Power Grid Co., Ltd since 2022:
 * *Jun. 2022 to Dec. 2023*, Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase I, *￥8,000k*
