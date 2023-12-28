@@ -16,7 +16,7 @@ author_profile: true
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em> 
+		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
@@ -28,7 +28,7 @@ author_profile: true
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
-		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em> 
+		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
