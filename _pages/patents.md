@@ -6,39 +6,62 @@ author_profile: true
 toc: true
 ---
 ## Invention Patents
-**Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)**
-<br/>
-*Ranked Second, Under Review*
-
-
 **An intelligent analysis method for lightning resistance level(Chinese)**
 <br/>
 *Ranked First, Under Review*
 
 
-**A method for pollution flashover early warning(Chinese)**
+**Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**An intelligent assessment method for wildfire risk(Chinese)**
+**A Method for Pollution Flashover Early Warning(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**A method, apparatus, equipment, and storage medium for feature data processing(Chinese)**
+**An Intelligent Assessment Method for Wildfire Risk(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**A method, apparatus, equipment, and storage medium for predicting wildfire-induced tripping of transmission lines(Chinese)**
+**A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
-**A method, apparatus, electronic device, and storage medium for training pollution flashover prediction models(Chinese)**
+**A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)**
+<br/>
+*Ranked Second, Under Review*
+
+
+**A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese)**
 <br/>
 *Ranked Second, Under Review*
 
 
 ## Software Patents
+**Lightning Protection Verification System**
+<br/>
+*Ranked Second, Under Review*
+
+
+**Creepage Distance Verification System**
+<br/>
+*Ranked Second, Under Review*
+
+
+**Load Flow Verification System**
+<br/>
+*Ranked Second, Under Review*
+
+
+**Operating Condition Simulation Verification System v1**
+<br/>
+*Ranked Second, Under Review*
+
+
+**Operating Condition Simulation Verification System v2**
+<br/>
+*Ranked Second, Under Review*
