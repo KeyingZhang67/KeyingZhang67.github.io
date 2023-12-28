@@ -16,7 +16,7 @@ author_profile: true
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted</em> 
+		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Poster</strong></em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
@@ -28,7 +28,7 @@ author_profile: true
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
-		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted</em> 
+		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Oral</strong></em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
@@ -44,7 +44,7 @@ author_profile: true
 		<p><strong>A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)</strong>
 		<br/><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan
 		<br/><em>Power System Technology 2023</em> 
-		<br/><em>China Southern Power Grid International Technology Forum 2022 <strong>(Best Paper Award)</strong></em>
+		<br/><em>China Southern Power Grid International Technology Forum 2022 <strong>(Best Paper Award in Disaster Prevention)</strong></em>
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
@@ -71,7 +71,7 @@ author_profile: true
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Material Big Data Distributed Processing System Design</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>Thesis<strong>(Excellent Thesis)</strong>, Bachelor of Engineering, 2019</em> 
+		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, 2019</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
