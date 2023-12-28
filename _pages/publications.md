@@ -7,7 +7,7 @@ author_profile: true
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
-	<td style="font-size: 24px;">2024</td>  
+	<td style="font-size: 24px; font-weight:bold; border:none;">2024</td>  
 </tr>
 <tr>
 	<td style="border: none;">
@@ -34,7 +34,7 @@ author_profile: true
 	</td>
 </tr>
 <tr>
-	<td style="font-size: 24px;">2023</td> 
+	<td style="font-size: 24px; font-weight:bold; border:none;">2023</td> 
 </tr>
 <tr>
 	<td style="border: none;">
@@ -49,7 +49,7 @@ author_profile: true
 	</td>
 </tr>
 <tr>
-	<td style="font-size: 24px;">Thesis</td>  
+	<td style="font-size: 24px; font-weight:bold; border:none;">Thesis</td>  
 </tr>
 <tr>
 	<td style="border: none;">
