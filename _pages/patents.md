@@ -3,7 +3,6 @@ layout: archive
 title: "Patents"
 permalink: /patents/
 author_profile: true
-toc: true
 ---
 ## Invention Patents
 **An intelligent analysis method for lightning resistance level(Chinese)**
