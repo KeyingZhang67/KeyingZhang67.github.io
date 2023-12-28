@@ -20,8 +20,24 @@ toc: true
 <br/>
 *Ranked Second, Under Review*
 
+
 **An intelligent assessment method for wildfire risk**
 <br/>
 *Ranked Second, Under Review*
+
+
+**A method, apparatus, equipment, and storage medium for feature data processing**
+<br/>
+*Ranked Second, Under Review*
+
+
+**A method, apparatus, equipment, and storage medium for predicting wildfire-induced tripping of transmission lines**
+<br/>
+*Ranked Second, Under Review*
+
+**A method, apparatus, electronic device, and storage medium for training pollution flashover prediction models**
+<br/>
+*Ranked Second, Under Review*
+
 
 ## Software Patents
