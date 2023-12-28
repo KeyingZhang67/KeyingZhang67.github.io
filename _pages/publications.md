@@ -61,49 +61,28 @@ td {
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
-<td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
-</td>
-<td style="line-height: 1.2; border: none;">
-<p><strong>Graph Similarity Computation</strong>
-<br/><strong>Keying Zhang</strong>
-<br/><em>Thesis(Excellent Thesis), Master of Science in Engineering, 2020</em> 
-<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
-</p>
-</td>
+	<td style="border: none;">
+	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	</td>
+		<td style="line-height: 1.2; border: none;">
+		<p><strong>Graph Similarity Computation</strong>
+		<br/><strong>Keying Zhang</strong>
+		<br/><em>Thesis(Excellent Thesis), Master of Science in Engineering, 2020</em> 
+		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
+		</p>
+	</td>
 </tr>
-</table>    
-</div>
-
-<div align="left">
-<table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
-<td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
-</td>
-<td style="line-height: 1.2; border: none;">
-<p><strong>Material Big Data Distributed Processing System Design</strong>
-<br/><strong>Keying Zhang</strong>
-<br/><em>Thesis(Excellent Thesis), Bachelor of Engineering, 2019</em> 
-<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
-</p>
-</td>
+	<td style="border: none;">
+	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	</td>
+		<td style="line-height: 1.2; border: none;">
+		<p><strong>Material Big Data Distributed Processing System Design</strong>
+		<br/><strong>Keying Zhang</strong>
+		<br/><em>Thesis(Excellent Thesis), Bachelor of Engineering, 2019</em> 
+		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
+		</p>
+	</td>
 </tr>
 </table>    
 </div>
-
-|列1      |列2         | 
-|:------- |:----------:|
-|左对齐   |居中对齐    |
-|文本     | 文本       |
-
-<table width="100%" border="1">
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td align="left">$100</td>
-  </tr>
-</table>
