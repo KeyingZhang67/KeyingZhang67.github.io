@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-<div align="center">
+<div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
@@ -22,7 +22,7 @@ author_profile: true
 </table>    
 </div>
 
-<div align="center">
+<div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
@@ -39,7 +39,7 @@ author_profile: true
 </table>    
 </div>
 
-<div align="center">
+<div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
@@ -57,7 +57,7 @@ author_profile: true
 </div>
 
 ## Thesis
-<div align="center">
+<div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
@@ -74,7 +74,7 @@ author_profile: true
 </table>    
 </div>
 
-<div align="center">
+<div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
