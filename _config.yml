@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Keying Zhang"
+description              : &description "Spectator"
 url                      : https://keyingzhang67.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keyingzhang67.github.io/"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Keying Zhang"
-  avatar           : "screencut.png"
+  avatar           : "photo.png"
   bio              : "Algorithm Engineer in CSPG"
   location         : "Guangzhou,China"
   employer         :
