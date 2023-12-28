@@ -9,10 +9,10 @@ author_profile: true
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="420" height="350">
+<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
 </td>
 <td style="line-height: 1.2; border: none;">
-<p><strong>MADA Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
+<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
 <br/><strong>Keying Zhang</strong>
 <br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em> 
 <br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
@@ -26,7 +26,7 @@ author_profile: true
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="420" height="350">
+<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
 </td>
 <td style="line-height: 1.2; border: none;">
 <p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
@@ -43,7 +43,7 @@ author_profile: true
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="420" height="350">
+<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
 </td>
 <td style="line-height: 1.2; border: none;">
 <p><strong>A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)</strong>
@@ -61,7 +61,7 @@ author_profile: true
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="420" height="350">
+<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
 </td>
 <td style="line-height: 1.2; border: none;">
 <p><strong>Graph Similarity Computation</strong>
@@ -78,7 +78,7 @@ author_profile: true
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
 <td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="420" height="350">
+<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
 </td>
 <td style="line-height: 1.2; border: none;">
 <p><strong>Material Big Data Distributed Processing System Design</strong>
