@@ -59,7 +59,7 @@ author_profile: true
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Graph Similarity Computation</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>Thesis<strong>(Scored 80)</strong>, Master of Science, 2020</em> 
+		<br/><em>Thesis<strong>(Scored 80)</strong>, Master of Science, King's College London, 2020</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
@@ -71,7 +71,7 @@ author_profile: true
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Material Big Data Distributed Processing System Design</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, 2019</em> 
+		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, Guizhou University, 2019</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
