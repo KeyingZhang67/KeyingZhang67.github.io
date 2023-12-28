@@ -59,7 +59,7 @@ author_profile: true
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Graph Similarity Computation</strong>
 		<br/><strong>Keying Zhang</strong>
-		<br/><em>Thesis<strong>(Scored 80)</strong>, Master of Science in Engineering, 2020</em> 
+		<br/><em>Thesis<strong>(Scored 80)</strong>, Master of Science, 2020</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
