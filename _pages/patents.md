@@ -5,7 +5,7 @@ permalink: /patents/
 author_profile: true
 ---
 ## Invention Patents
-**An intelligent analysis method for lightning resistance level(Chinese)**
+**An Intelligent Analysis Method for Lightning Resistance Level(Chinese)**
 <br/>
 *Ranked First, Under Review*
 
