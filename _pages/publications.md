@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
+
+<style>
+td {
+  text-align: left;
+}
+</style>
+
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
@@ -25,16 +32,16 @@ author_profile: true
 <div align="left">
 <table style="border: none;" cellpadding="0" cellspacing="0">
 <tr>
-<td style="border: none;">
-<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
-</td>
-<td style="line-height: 1.2; border: none;">
-<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
-<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
-<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em> 
-<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
-</p>
-</td>
+	<td style="border: none;">
+	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	</td>
+	<td style="line-height: 1.2; border: none;">
+		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
+		<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
+		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em> 
+		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
+		</p>
+	</td>
 </tr>
 </table>    
 </div>
