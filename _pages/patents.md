@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards"
-permalink: /awards/
+permalink: /patents/
 author_profile: true
 toc: true
 ---
