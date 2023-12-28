@@ -43,7 +43,7 @@ author_profile: true
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)</strong>
 		<br/><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan
-		<br/><em>Power System Technology </em> 
+		<br/><em>Power System Technology 2023</em> 
 		<br/><a href="http://academicpages.github.io/files/paper1.pdf">[paper]</a>
 		</p>
 	</td>
