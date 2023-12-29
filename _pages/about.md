@@ -20,7 +20,7 @@ I have presided over the following projects in China Southern Power Grid Digital
 * *Jun. 2022 to Dec. 2023*, Intelligent Algorithms for Disaster Prevention and Mitigation in the Transmission of New Power System, *￥2,850k*, ***Completed***
 
 I have involved in the following projects in China Southern Power Grid Co., Ltd since 2022:
-* *Dec. 2023 to Dec. 2024*, Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase II, *￥10,000k*, ***Ongoing***
-* *Jun. 2022 to Dec. 2023*, Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase I, *￥8,000k*, ***Completed***
+* *Dec. 2023 to Dec. 2024*, China Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase II, *￥10,000k*, ***Ongoing***
+* *Jun. 2022 to Dec. 2023*, China Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase I, *￥8,000k*, ***Completed***
 
 
