@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm Keying! I'm currently an algorithm engineer of China Southern Power Grid Digital Power Grid Group Co., Ltd., and former China Southern Power Grid Digital Grid Research Institute Co., Ltd. Before joining CSPG, I received my MSc degree at King's College London in 2020.
 
-My research interests include computer vision, machine learning, and big data techniques. Till Dec 2023, I have published 3 papers on international journals and conferences and applied for over 10 invention patents or software copyrights.
+My research interests include computer vision, machine learning, and big data techniques. Till Dec. 2023, I have published 3 papers on international journals and conferences and applied for over 10 invention patents or software copyrights.
 
 Projects
 ======
