@@ -42,12 +42,5 @@ Skills
   * Tableau, SPSS
 * Language
   * IELTS 7
-
-Publications
-======
-* Publications 1
-  * Publications 1.1
-* Publications 2
-  * Publications 2.1
   
   
