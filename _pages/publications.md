@@ -11,7 +11,7 @@ author_profile: true
 </tr>
 <tr>
 	<td style="border: none;">
-	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	<img src='{{ site.url }}/images/MADA.png' width="336" height="280">
 	</td>
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
@@ -23,7 +23,7 @@ author_profile: true
 </tr>
 <tr>
 	<td style="border: none;">
-	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	<img src='{{ site.url }}/images/iBALR3D.png' width="336" height="280">
 	</td>
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
@@ -38,7 +38,7 @@ author_profile: true
 </tr>
 <tr>
 	<td style="border: none;">
-	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	<img src='{{ site.url }}/images/WildfileRiskAssessment.png' width="336" height="280">
 	</td>
 	<td style="line-height: 1.2; border: none;">
 		<p><strong>A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)</strong>
@@ -54,7 +54,7 @@ author_profile: true
 </tr>
 <tr>
 	<td style="border: none;">
-	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	<img src='{{ site.url }}/images/MasterThesis.png' width="336" height="280">
 	</td>
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Graph Similarity Computation</strong>
@@ -66,7 +66,7 @@ author_profile: true
 </tr>
 <tr>
 	<td style="border: none;">
-	<img src='{{ site.url }}/images/500x300.png' width="336" height="280">
+	<img src='{{ site.url }}/images/BachelorThesis.png' width="336" height="280">
 	</td>
 		<td style="line-height: 1.2; border: none;">
 		<p><strong>Material Big Data Distributed Processing System Design</strong>
