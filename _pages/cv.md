@@ -61,19 +61,19 @@ Publications
   * <em><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin<em>, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em>
   * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em>
 * Invention Patents
-  * An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
-  * Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
-  * A Method for Pollution Flashover Early Warning(Chinese)
-  * An Intelligent Assessment Method for Wildfire Risk(Chinese)
-  * A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)
-  * A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
-  * A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
+  * *Ranked First, Under Review*, An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
+  * *Ranked Second, Under Review*, Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
+  * *Ranked Second, Under Review*, A Method for Pollution Flashover Early Warning(Chinese)
+  * *Ranked Second, Under Review*, An Intelligent Assessment Method for Wildfire Risk(Chinese)
+  * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)
+  * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
+  * *Ranked Second, Under Review*, A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
 * Software Patents
-  * Lightning Protection Verification System(Chinese)
-  * Creepage Distance Verification System(Chinese)
-  * Load Flow Verification System(Chinese)
-  * Operating Condition Simulation Verification System v1(Chinese)
-  * Operating Condition Simulation Verification System v2(Chinese)
+  * *Ranked Second, Under Review*, Lightning Protection Verification System(Chinese)
+  * *Ranked Second, Under Review*, Creepage Distance Verification System(Chinese)
+  * *Ranked Second, Under Review*, Load Flow Verification System(Chinese)
+  * *Ranked Second, Under Review*, Operating Condition Simulation Verification System v1(Chinese)
+  * *Ranked Second, Under Review*, Operating Condition Simulation Verification System v2(Chinese)
   
 Awards
 ======
