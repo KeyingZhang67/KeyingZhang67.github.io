@@ -31,11 +31,13 @@ Skills
 * Programming
   * Python, R, SQL, Matlab
 * Deep Learning and Machine Learning
-  * Pytorch, Tensordlow, OpenCV, Open3D, Sklearn, Pandas, NumPy, Matplotlib
+  * Pytorch, Tensordlow, OpenCV, Open3D, Sklearn, Pandas, NumPy, Matplotlib, Networkx
 * Cloud Platform
   * Openstack, Zabbix, Kubernetes, Docker, Prometheus
 * Big Data Technology
   * Storm, Kafka, Spark, Pyspark, Hadoop, Mrjob, MongoDB, Mysql, Sqoop, Hive
+* Operation System
+  * Ubtuntu, Centos, Windows
 * Data Analysis
   * Tableau, SPSS
 * Language
