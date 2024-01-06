@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, King's College London, *2020*
-* B.S. in Information System and Management, Guizhou University, *2019*
+* M.S. in Data Science, King's College London, Distinction(10%) *2020*
+* B.S. in Information System and Management, Guizhou University, 85.56(10%) *2019*
 
 Work experience
 ======
