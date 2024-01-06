@@ -17,7 +17,7 @@ author_profile: true
 		<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Poster</strong></em> 
-		<br/><a href="http://academicpages.github.io/files/MADA.pdf">[paper]</a>
+		<br/><a href="http://KeyingZhang67.github.io/files/MADA.pdf">[paper]</a>
 		</p>
 	</td>
 </tr>
@@ -29,7 +29,7 @@ author_profile: true
 		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
 		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Oral</strong></em> 
-		<br/><a href="http://academicpages.github.io/files/iBALR3D.pdf">[paper]</a>
+		<br/><a href="http://KeyingZhang67.github.io/files/iBALR3D.pdf">[paper]</a>
 		</p>
 	</td>
 </tr>
@@ -45,7 +45,7 @@ author_profile: true
 		<br/><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan
 		<br/><em>Power System Technology 2023</em> 
 		<br/><em>China Southern Power Grid International Technology Forum 2022 <strong>(Best Paper Award in Disaster Prevention)</strong></em>
-		<br/><a href="http://academicpages.github.io/files/WildfileRiskAssessment.pdf">[paper]</a>
+		<br/><a href="http://KeyingZhang67.github.io/files/WildfileRiskAssessment.pdf">[paper]</a>
 		</p>
 	</td>
 </tr>
@@ -60,7 +60,7 @@ author_profile: true
 		<p><strong>Graph Similarity Computation</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>Thesis<strong>(Scored 80)</strong>, Master of Science, King's College London, 2020</em> 
-		<br/><a href="http://academicpages.github.io/files/MasterThesis.pdf">[paper]</a>
+		<br/><a href="http://KeyingZhang67.github.io/files/MasterThesis.pdf">[paper]</a>
 		</p>
 	</td>
 </tr>
@@ -72,7 +72,7 @@ author_profile: true
 		<p><strong>Material Big Data Distributed Processing System Design</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, Guizhou University, 2019</em> 
-		<br/><a href="http://academicpages.github.io/files/BachelorThesis.pdf">[paper]</a>
+		<br/><a href="http://KeyingZhang67.github.io/files/BachelorThesis.pdf">[paper]</a>
 		</p>
 	</td>
 </tr>
