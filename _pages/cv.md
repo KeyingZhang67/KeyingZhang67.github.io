@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
-* Jun. 2021-Present: China Southern Power Grid Digital Power Grid Group Co., Ltd.
-  * Algorithm Engineer
+* Jun. 2021-Present: China Southern Power Grid Digital Power Grid Group Co., Ltd. *Algorithm Engineer*
   * 3D Point cloud-based Disaster Prevention and Mitigation Algorithms for Transmission Lines
   * Traditional Disaster Prevention and Mitigation Algorithms for Transmission Lines
   * Large Vision Language Model
   * Project Management
 
-* Nov. 2020-Feb. 2021: Deloitte Consulting
-  * Data Engineer Intern
+* Nov. 2020-Feb. 2021: Deloitte Consulting *Data Engineer Intern*
   * Greenplum Operation and Maintenance
   * Big Data Proccessing
   
