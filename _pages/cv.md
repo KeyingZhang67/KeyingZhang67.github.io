@@ -57,9 +57,9 @@ Involved projects since 2022:
 Publications
 ======
 * Conferences & Journals
-  * <strong>Keying Zhang</strong>, "MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation", AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop
-  * <strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop
-  * <strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", Power System Technology 2023
+  * <em><strong>Keying Zhang</strong></em>, "MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em>
+  * <em><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin<em>, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em>
+  * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em>
 * Invention Patents
   * An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
   * Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
