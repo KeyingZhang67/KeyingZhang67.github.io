@@ -69,7 +69,7 @@ author_profile: true
 	<img src='{{ site.url }}/images/BachelorThesis.png' width="336" height="280">
 	</td>
 		<td style="line-height: 1.2; border: none;">
-		<p><strong>Material Big Data Distributed Processing System Design</strong>
+		<p><strong>Material Big Data Distributed Processing System Design(Chinese)</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, Guizhou University, 2019</em> 
 		<br/><a href="http://KeyingZhang67.github.io/files/BachelorThesis.pdf">[paper]</a>
