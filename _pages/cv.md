@@ -60,9 +60,9 @@ Involved projects since 2022:
 Publications
 ======
 * Conferences & Journals
-  * <em><strong>Keying Zhang</strong></em>, "MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em>
-  * <em><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin<em>, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em>
-  * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em>
+  * <em><strong>Keying Zhang</strong></em>, "MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em><a href="http://KeyingZhang67.github.io/files/MADA.pdf">[paper]</a>
+  * <em><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin<em>, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em><a href="http://KeyingZhang67.github.io/files/iBALR3D.pdf">[paper]</a>
+  * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em><a href="http://KeyingZhang67.github.io/files/WildfileRiskAssessment.pdf">[paper]</a>
 * Invention Patents
   * *Ranked First, Under Review*, An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
   * *Ranked First, Under Review*, A Method, Device, Equipment, and Medium for Evaluating a Semantic Segmentation Model(Chinese)
