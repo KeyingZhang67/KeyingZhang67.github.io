@@ -15,7 +15,7 @@ My research interests include Large Language Models, Computer Vision, Machine Le
 Projects
 ======
 I have presided over the following projects since 2022:
-* *Dec. 2023 to Dec. 2025*, Load Verification Techniques for Transmission Lines Based on Multi-Source Data, ***Ongoing***
+* *Dec. 2023 to Dec. 2025*, Dynamic Calculation for Transmission Line Capacity Based on Multi-Source Data, ***Ongoing***
 * *Sep. 2022 to Sep. 2024*, 3D Pointcloud Based Big Data Algorithms for Disaster Prevention and Mitigation in Transmission Lines, ***Ongoing***
 * *Jun. 2022 to Dec. 2023*, Intelligent Algorithms for Disaster Prevention and Mitigation in the Transmission of New Power System, ***Completed***
 

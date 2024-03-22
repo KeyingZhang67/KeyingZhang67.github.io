@@ -49,7 +49,7 @@ Skills
 Projects
 ======
 Presided projects since 2022:
-* *Dec. 2023 to Dec. 2025*, Load Verification Techniques for Transmission Lines Based on Multi-Source Data, ***Ongoing***
+* *Dec. 2023 to Dec. 2025*, Dynamic Calculation for Transmission Lines Capacity Based on Multi-Source Data, ***Ongoing***
 * *Sep. 2022 to Sep. 2024*, 3D Pointcloud Based Big Data Algorithms for Disaster Prevention and Mitigation in Transmission Lines, ***Ongoing***
 * *Jun. 2022 to Dec. 2023*, Intelligent Algorithms for Disaster Prevention and Mitigation in the Transmission of New Power System, ***Completed***
 
@@ -71,7 +71,7 @@ Publications
   * *Ranked First, Under Review*, MADA: Open Set Semantic Segmentation Adaptive Method (2)(Chinese)
   * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (1)(Chinese)
   * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (2)(Chinese)
-  * *Ranked Second, Under Review*, Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
+  * *Ranked Second, Under Review*, Multi-scenario SimulFation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
   * *Ranked Second, Under Review*, A Method for Pollution Flashover Early Warning(Chinese)
   * *Ranked Second, Under Review*, An Intelligent Assessment Method for Wildfire Risk(Chinese)
   * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)
