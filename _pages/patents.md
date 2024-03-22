@@ -10,7 +10,7 @@ author_profile: true
 *Ranked First, Under Review*
 
 
-**An Intelligent Analysis Method for Lightning Resistance Level(Chinese)**
+**A Method, Device, Equipment, and Medium for Evaluating a Semantic Segmentation Model(Chinese)**
 <br/>
 *Ranked First, Under Review*
 
