@@ -75,7 +75,6 @@ author_profile: true
 <br/>
 *Ranked First, Authorized*
 
-
 **Operating Condition Simulation Verification System v1(Chinese)**
 <br/>
 *Ranked First, Authorized*
