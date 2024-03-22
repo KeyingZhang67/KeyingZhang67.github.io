@@ -6,8 +6,7 @@ author_profile: true
 toc: true
 ---
 ## Awards
-* *Dec. 2023*, -, China
-* *Dec. 2023*, -, China
+* *Dec. 2023*, Gold Award for Individual Innovation in China Southern Power Grid Digital Power Grid Group Co., Ltd., China
 * *Dec. 2022*, Best Paper Award of China Southern Power Grid International Technology Forum 2022 , China
 * *Dec. 2019*, Excellent Thesis Award of Guizhou University, China
 * *Dec. 2019*, Second Scholarship of 'Cloud Guizhou', Guizhou Province, China

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, King's College London, Distinction(10%) *2020*
-* B.S. in Information System and Management, Guizhou University, 85.56(8%) *2019*
+* M.S. in Data Science, King's College London, 3.8-4/4(Distinction) *2020*
+* B.S. in Information System and Management, Guizhou University, 85.56/100(8%) *2019*
 
 Work experience
 ======
@@ -22,9 +22,10 @@ Work experience
   * Large Vision Language Model
   * Project Management
 
-* *Nov. 2020-Feb. 2021* Deloitte Consulting *Data Engineer Intern*
+* *Nov. 2020-Feb. 2021* Deloitte Consulting *Data Intern*
   * Greenplum Operation and Maintenance
   * Big Data Proccessing
+  * Data Analysis & Data Visualization
   
 Skills
 ======
@@ -35,11 +36,13 @@ Skills
 * Cloud Platform
   * Openstack, Zabbix, Kubernetes, Docker, Prometheus
 * Big Data Technology
-  * Storm, Kafka, Spark, Pyspark, Hadoop, Mrjob, MongoDB, Mysql, Sqoop, Hive
+  * Storm, Kafka, Spark, Pyspark, Hadoop, Mrjob, MongoDB, Mysql, Sqoop, Hive, Azkaban, Greenplum
 * Operation System
   * Ubuntu, Centos, Windows
 * Data Analysis
-  * Tableau, SPSS
+  * ArcGIS, Tableau, SPSS
+* Project Management
+  * PMP
 * Language
   * IELTS 7
 
@@ -62,6 +65,12 @@ Publications
   * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em>
 * Invention Patents
   * *Ranked First, Under Review*, An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
+  * *Ranked First, Under Review*, A Method, Device, Equipment, and Medium for Evaluating a Semantic Segmentation Model(Chinese)
+  * *Ranked First, Under Review*, A Model Training, Point Cloud Segmentation Method, Device, and Electronic Equipment(Chinese)
+  * *Ranked First, Under Review*, MADA: Open Set Semantic Segmentation Adaptive Method (1)(Chinese)
+  * *Ranked First, Under Review*, MADA: Open Set Semantic Segmentation Adaptive Method (2)(Chinese)
+  * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (1)(Chinese)
+  * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (2)(Chinese)
   * *Ranked Second, Under Review*, Multi-scenario Simulation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
   * *Ranked Second, Under Review*, A Method for Pollution Flashover Early Warning(Chinese)
   * *Ranked Second, Under Review*, An Intelligent Assessment Method for Wildfire Risk(Chinese)
@@ -69,16 +78,15 @@ Publications
   * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
   * *Ranked Second, Under Review*, A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
 * Software Patents
-  * *Ranked Second, Under Review*, Lightning Protection Verification System(Chinese)
-  * *Ranked Second, Under Review*, Creepage Distance Verification System(Chinese)
-  * *Ranked Second, Under Review*, Load Flow Verification System(Chinese)
-  * *Ranked Second, Under Review*, Operating Condition Simulation Verification System v1(Chinese)
-  * *Ranked Second, Under Review*, Operating Condition Simulation Verification System v2(Chinese)
+  * *Ranked First, Authorized*, Load Flow Verification System(Chinese)
+  * *Ranked First, Authorized*, Operating Condition Simulation Verification System v1(Chinese)
+  * *Ranked Second, Authorized*, Operating Condition Simulation Verification System v2(Chinese)
+  * *Ranked Second, Authorized*, Lightning Protection Verification System(Chinese)
+  * *Ranked Second, Authorized*, Creepage Distance Verification System(Chinese)
   
 Awards
 ======
-* *Dec. 2023*, -, China
-* *Dec. 2023*, -, China
+* *Dec. 2023*, Gold Award for Individual Innovation in China Southern Power Grid Digital Power Grid Group Co., Ltd., China
 * *Dec. 2022*, Best Paper Award of China Southern Power Grid International Technology Forum 2022 , China
 * *Dec. 2019*, Excellent Thesis Award of Guizhou University, China
 * *Dec. 2019*, Second Scholarship of 'Cloud Guizhou', Guizhou Province, China
