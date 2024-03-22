@@ -78,8 +78,8 @@ Publications
   * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
   * *Ranked Second, Under Review*, A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
 * Software Patents
-  * *Ranked First, Authorized*, Load Flow Verification System(Chinese)<br/><a href="http://KeyingZhang67.github.io/files/1、2023-0285_2024SR0047398_Load Flow Verification System(Chinese).pdf">[PDF]</a>
-  * *Ranked First, Authorized*, Operating Condition Simulation Verification System v1(Chinese)
+  * *Ranked First, Authorized*, Load Flow Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/1、2023-0285_2024SR0047398_Load Flow Verification System(Chinese).pdf">[pdf]</a>
+  * *Ranked First, Authorized*, Operating Condition Simulation Verification System v1(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/">[pdf]</a>
   * *Ranked Second, Authorized*, Operating Condition Simulation Verification System v2(Chinese)
   * *Ranked Second, Authorized*, Lightning Protection Verification System(Chinese)
   * *Ranked Second, Authorized*, Creepage Distance Verification System(Chinese)
