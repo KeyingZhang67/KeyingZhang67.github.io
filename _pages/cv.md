@@ -81,8 +81,8 @@ Publications
   * *Ranked First, Authorized*, Load Flow Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/1、2023-0285_2024SR0047398_Load Flow Verification System(Chinese).pdf">[pdf]</a>
   * *Ranked First, Authorized*, Operating Condition Simulation Verification System v1(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/5、2023-0289_2024SR0048012_Operating Condition Simulation Verification System v1(Chinese).pdf">[pdf]</a>
   * *Ranked Second, Authorized*, Operating Condition Simulation Verification System v2(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/3、2023-0276_2024SR0047988_Operating Condition Simulation Verification System v2(Chinese).pdf">[pdf]</a>
-  * *Ranked Second, Authorized*, Lightning Protection Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/4、2023-0283_2024SR0047749_Creepage Distance Verification System(Chinese).pdf">[pdf]</a>
-  * *Ranked Second, Authorized*, Creepage Distance Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/2、2023-0280_2024SR0047721_Lightning Protection Verification System(Chinese).pdf">[pdf]</a>
+  * *Ranked Second, Authorized*, Creepage Distance Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/4、2023-0283_2024SR0047749_Creepage Distance Verification System(Chinese).pdf">[pdf]</a>
+  * *Ranked Second, Authorized*, Lightning Protection Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/2、2023-0280_2024SR0047721_Lightning Protection Verification System(Chinese).pdf">[pdf]</a>
   
 Awards
 ======
