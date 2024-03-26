@@ -17,7 +17,7 @@ author_profile: true
 		<p><strong>MADA: Mask Aware Domain Adaptation for Open-set Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Poster</strong></em> 
-		<br/>Addressed open-set semantic segmentation by efficiently adapting the model to the target domain with significantly limited training samples. It effectively preserves the model's open-set capacity and performance. The approach includes a Mask-Aware module to explore correlations between visual/mask space and feature space, a Structure Consistent module for stabilizing learning and maintaining generalization, and an efficient optimization solution.
+		<br/>Addresse open-set semantic segmentation by efficiently adapting the model to the target domain with significantly limited training samples. It effectively preserves the model's open-set capacity and performance. The approach includes a Mask-Aware module to explore correlations between visual/mask space and feature space, a Structure Consistent module for stabilizing learning and maintaining generalization, and an efficient optimization solution.
 		<br/><a href="http://KeyingZhang67.github.io/files/MADA.pdf">[paper]</a>
 		</p>
 	</td>
@@ -30,7 +30,7 @@ author_profile: true
 		<p><strong>iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation</strong>
 		<br/><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin
 		<br/><em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop Accepted <strong>Oral</strong></em> 
-		<br/>Proposed iBALR3D, a novel method for semantic segmentation tasks of point clouds. It addresses the challenges of imbalanced data and long-range distribution in real-world transmission line scenarios. iBALR3D incorporates a contrastive learning algorithm, adaptive spatial encoding module, and sampling strategy to prioritize junctional regions in long-range space and learn distinctive representations for different classifications. Also introduced a new dataset, 500KV3D, for evaluation purposes.
+		<br/>Propose iBALR3D, a novel method for semantic segmentation tasks of point clouds. It addresses the challenges of imbalanced data and long-range distribution in real-world transmission line scenarios. iBALR3D incorporates a contrastive learning algorithm, adaptive spatial encoding module, and sampling strategy to prioritize junctional regions in long-range space and learn distinctive representations for different classifications. Also introduced a new dataset, 500KV3D, for evaluation purposes.
 		<br/><a href="http://KeyingZhang67.github.io/files/iBALR3D.pdf">[paper]</a>
 		</p>
 	</td>
