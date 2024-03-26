@@ -44,7 +44,7 @@ Skills
 * Project Management
   * PMP
 * Language
-  * IELTS 7()
+  * IELTS 7(Listen:6.0 Reading:8.5 Writing:6.5 Speaking:6.5)
 
 Projects
 ======
