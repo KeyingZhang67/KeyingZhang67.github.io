@@ -104,4 +104,3 @@ Certificates
 * *Jun. 2022*, Project Management Professional (PMP), *Project Management Institute (PMI)*
 * *Sep. 2022*, Tencent Cloud Solutions Architect Professional Engineer (TCP), *Tencent Cloud*
 * *Jun. 2022*, Unmanned Aircraft Operator Certificate (UTC), *China Air Transport Association (CATA)*
-* *Dec. 2018*, IELTS 7
