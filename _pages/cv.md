@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, King's College London, 3.8-4/4(Distinction) *2020*
-* B.S. in Information System and Management, Guizhou University, 85.56/100(8%) *2019*
+* M.S. in Data Science, King's College London, 3.8/4(Distinction) *2020*
+* B.S. in Information System and Management, Guizhou University, 3.5/4(8%) *2019*
 
 Work experience
 ======
@@ -64,19 +64,19 @@ Publications
   * <em><strong>Keying Zhang</strong>, Ruirui Cai, XinqiaoWu, Jiguang Zhao, Ping Qin<em>, "iBALR3D: imBalanced-Aware Long-Range 3D Semantic Segmentation", <em>AAAI Conference on Artificial Intelligence (AAAI) 2024 Workshop</em><a href="http://KeyingZhang67.github.io/files/iBALR3D.pdf">[paper]</a>
   * <em><strong>Keying Zhang</strong>, XinqiaoWu, Jiguang Zhao, Lan Liu, Ping Qin, Hao Wang, Tanbochi Zhan</em>, "A Real-time Wildfire Risk Assessment Model for Transmission Corridors Based on Feature Engineering, Ensemble Learning and Model Fusion(Chinese)", <em>Power System Technology 2023</em><a href="http://KeyingZhang67.github.io/files/WildfileRiskAssessment.pdf">[paper]</a>
 * Invention Patents
-  * *Ranked First, Under Review*, An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
-  * *Ranked First, Under Review*, A Method, Device, Equipment, and Medium for Evaluating a Semantic Segmentation Model(Chinese)
-  * *Ranked First, Under Review*, A Model Training, Point Cloud Segmentation Method, Device, and Electronic Equipment(Chinese)
-  * *Ranked First, Under Review*, MADA: Open Set Semantic Segmentation Adaptive Method (1)(Chinese)
-  * *Ranked First, Under Review*, MADA: Open Set Semantic Segmentation Adaptive Method (2)(Chinese)
-  * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (1)(Chinese)
-  * *Ranked First, Under Review*, iBALR3D: Imbalanced Perception for Remote 3D Semantic Segmentation (2)(Chinese)
-  * *Ranked Second, Under Review*, Multi-scenario SimulFation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
-  * *Ranked Second, Under Review*, A Method for Pollution Flashover Early Warning(Chinese)
-  * *Ranked Second, Under Review*, An Intelligent Assessment Method for Wildfire Risk(Chinese)
-  * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)
-  * *Ranked Second, Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
-  * *Ranked Second, Under Review*, A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
+  * *\textbf{Keying Zhang}, Lan Liu, Jiguang Zhao, et al., China Invention Patent Under Review*, An Intelligent Analysis Method for Lightning Resistance Level(Chinese)
+  * *\textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, et al., China Invention Patent Under Review*, A Method, Device, Equipment, and Medium for Evaluating a Semantic Segmentation Model(Chinese)
+  * *\textbf{Keying Zhang}, Ping Qin, Xinqiao Wu, et al., China Invention Patent Under Review*, A Model Training, Point Cloud Segmentation Method, Device, and Electronic Equipment(Chinese)
+  * *\textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, et al., China Invention Patent Under Review*, An apparatus, method, device, and medium for identifying target power transmission facilities(Chinese)
+  * *\textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, et al., China Invention Patent Under Review*, Evaluation method, equipment, and medium for the risk assessment of wildfires causing power transmission line tripping(Chinese)
+  * *\textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, et al., China Invention Patent Under Review*, A model training, point cloud segmentation method, device, and electronic device(Chinese)
+  * *\textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, et al.t, China Invention Patent Under Review*, A method for training a model, segmenting point clouds, as well as a device and electronic equipment(Chinese)
+  * *Lan Liu, \textbf{Keying Zhang}, Xinqiao Wu, et al., China Invention Patent Under Review*, Multi-scenario SimulFation and Analysis Method for Transmission Line Based on Real-time Multi-source Data Fusion(Chinese)
+  * *Xinqiao Wu, \textbf{Keying Zhang}, Lan Liu, et al., China Invention Patent Under Review*, A Method for Pollution Flashover Early Warning(Chinese)
+  * *Lan Liu, \textbf{Keying Zhang}, Xinqiao Wu, et al., China Invention Patent Under Review*, An Intelligent Assessment Method for Wildfire Risk(Chinese)
+  * *Lan Liu, \textbf{Keying Zhang}, Xinqiao Wu, et al., China Invention Patent Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Feature Data Processing(Chinese)
+  * *Lan Liu, \textbf{Keying Zhang}, Xinqiao Wu, et al., China Invention Patent Under Review*, A Method, Apparatus, Equipment, and Storage Medium for Predicting Wildfire-induced Tripping of Transmission Lines(Chinese)
+  * *Lan Liu, \textbf{Keying Zhang}, Xinqiao Wu, et al., China Invention Patent Under Review*, A Method, Apparatus, Electronic Device, and Storage Medium for Training Pollution Flashover Prediction Models(Chinese) 
 * Software Patents
   * *Ranked First, Authorized*, Load Flow Verification System(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/1、2023-0285_2024SR0047398_Load Flow Verification System(Chinese).pdf">[pdf]</a>
   * *Ranked First, Authorized*, Operating Condition Simulation Verification System v1(Chinese)<a href="http://KeyingZhang67.github.io/files/software_patents/5、2023-0289_2024SR0048012_Operating Condition Simulation Verification System v1(Chinese).pdf">[pdf]</a>
@@ -107,3 +107,18 @@ Certificates
 * *Dec. 2018*, IELTS 7
 
   
+% 载流量校核
+    \item \textbf{Keying Zhang}, Xinqiao Wu, Ping Qin, Lan Liu, Yuan Chen, Chenrui Zhang, ``Load Flow Verification System (Chinese),'' \emph{granted China Software Patent No. 2024SR0047398} \link{http://KeyingZhang67.github.io/files/software_patents/1、2023-0285_2024SR0047398_Load Flow Verification System(Chinese).pdf}{[PDF]} 
+    % 多工况模拟v1
+    \item \textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, Ping Qin, Yuan Chen, Jiaxu Shen, ``Operating Condition Simulation Verification System v1 (Chinese),'' \emph{granted China Software Patent No. 2024SR0048012} 
+    \link{https://keyingzhang67.github.io/files/software_patents/5、2023-0289_2024SR0048012_Operating Condition Simulation Verification System v1(Chinese).pdf}{[PDF]} 
+    % 多工况模拟v2
+    \item Xinqiao Wu, \textbf{Keying Zhang}, Yuquan Xie, Ping Qin, Lan Liu, Yuan Chen, ``Operating Condition Simulation Verification System v2 (Chinese),'' \emph{granted China Software Patent No. 2024SR0047988}\link{https://keyingzhang67.github.io/files/software_patents/3、2023-0276_2024SR0047988_Operating Condition Simulation Verification System v2(Chinese).pdf}{[PDF]}
+    % 爬电比距
+    \item Xinqiao Wu, \textbf{Keying Zhang}, Ping Qin, Lan Liu, Yuan Chen, Yuquan Xie``Creepage Distance Verification System(Chinese),'' \emph{granted China Software Patent No. 2024SR0047749}\link{https://keyingzhang67.github.io/files/software_patents/4、2023-0283_2024SR0047749_Creepage Distance Verification System (Chinese).pdf}{[PDF]}
+    % 耐雷水平
+    \item Ping Qin, \textbf{Keying Zhang}, Xinqiao Wu, Lan Liu, Yuan Chen, Zikun Wu ``Lightning Protection Verification System (Chinese),'' \emph{granted China Software Patent No. 2024SR0047721}\link{https://keyingzhang67.github.io/files/software_patents/2、2023-0280_2024SR0047721_Lightning Protection Verification System(Chinese).pdf}{[PDF]}
+    %------------------------------发明专利------------------------------
+    % 耐雷水平
+    \item \textbf{Keying Zhang}, Lan Liu, Jiguang Zhao, et al., ``An Intelligent Analysis Method for Lightning Resistance Level (Chinese)'', \emph{China Invention Patent Under Review}
+	
