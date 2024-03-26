@@ -42,9 +42,9 @@ Skills
 * Data Analysis
   * ArcGIS, Tableau, SPSS
 * Project Management
-  * PMP
+  * PMP (Project Management Professional)
 * Language
-  * IELTS 7(Listen:6.0 Reading:8.5 Writing:6.5 Speaking:6.5)
+  * IELTS 7.0(Listen:6.0 Reading:8.5 Writing:6.5 Speaking:6.5)
 
 Projects
 ======
