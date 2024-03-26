@@ -22,8 +22,8 @@ Work experience
   * Large Vision Language Model
   * Project Management
 
-* *Nov. 2020-Feb. 2021* Deloitte Consulting *Data Intern*
-  * Greenplum Operation and Maintenance
+* *Nov. 2020-Feb. 2021* Deloitte Consulting *Data Engineering Intern*
+  * Data warehouse
   * Big Data Proccessing
   * Data Analysis & Data Visualization
   
