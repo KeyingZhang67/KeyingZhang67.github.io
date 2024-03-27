@@ -73,7 +73,7 @@ author_profile: true
 	<img src='{{ site.url }}/images/BachelorThesis.png' width="336" height="280">
 	</td>
 		<td style="line-height: 1.2; border: none;">
-		<p><strong>Material Big Data Distributed Processing System Design(Chinese)</strong>
+		<p><strong>Material Big Data Distributed Processing System Design and Implementation(Chinese)</strong>
 		<br/><strong>Keying Zhang</strong>
 		<br/><em>Thesis<strong>(Excellent Thesis Award)</strong>, Bachelor of Engineering, Guizhou University, 2019</em> 
 		<br/>Initially, the work establishs a container cloud platform based on Kubernetes and relevant monitoring tools, then devises a distributed algorithm employing the MapReduce concept and integrate it into the platform. The distributed algorithms significantly boost efficiency in materials science computations. Subsequently, recognizing the limited attention paid to Quality of Service (QoS) aspects in current adaptive systems, introduce a self-scaling solution that balances QoS and cost considerations. This approach leverages moving averages to autonomously predict material task requests and optimize cloud resource workload units by weighing cost and delay factors. Given the time taken to initiate virtual machines or container work units, proactive resource scaling based on predicted demand elevates the efficiency of cluster resource scheduling. Expanding on the auto-scaling mechanism for cloud resources, propose an adaptive algorithm utilizing the Q-learning ε-greedy approach to maximize cloud resource utilization. This algorithm identifies the most suitable scheduling server for virtual machines or container work units and places idle servers into a sleep state, thereby enhancing cluster resource efficiency.
