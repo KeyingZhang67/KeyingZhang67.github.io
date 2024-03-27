@@ -97,7 +97,7 @@ Awards
 * *Dec. 2017*, Second Scholarship in Guizhou University, China
 * *Dec. 2017*, Third Prize of the APMCM (Asia-Pacific Mathematical Contest in Modeling) for Undergraduate Students, China
 * *Mar. 2017*, Second Prize of the 10th "Certification Cup" Mathematical Modeling Network Challenge, China
-* *May. 2016*, Second Prize of National English Contest for College Students, China
+* *May. 2016*, Second Prize of National English Contest for Undergraduate Students, China
 
 Certificates
 ======
