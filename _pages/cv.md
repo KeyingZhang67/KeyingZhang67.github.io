@@ -23,7 +23,7 @@ Work experience
   * Project Management
 
 * *Nov. 2020-Feb. 2021* Deloitte Consulting *Data Engineering Intern*
-  * Data warehouse
+  * Data Warehouse
   * Big Data Engineering
   * Data Analysis & Visualization
   
