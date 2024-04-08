@@ -123,4 +123,4 @@ Hobbies
 ======
 * Sports: Table Tennis, Badminton, Cruiser Skateboard
 * Arts: Oil Stick Painting, Oil Painting, Sketch
-* Misc: Investment, Wild Animals
+* Misc: Investments, Wild Animals
