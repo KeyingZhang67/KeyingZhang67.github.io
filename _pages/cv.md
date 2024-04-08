@@ -107,16 +107,16 @@ Certificates
 
 Activities
 ======
-* *May 2017 to May 2017** China International Big Data Industry Expo 2017 *Translation Volunteer*
+* *May 2017 to May 2017* China International Big Data Industry Expo 2017 *Translation Volunteer*
   * Accompanied domestic and foreign guests to visit eight observation routes in Guizhou Province.
   
-* *May 2016 to May 2016** China International Big Data Industry Expo 2016 *Translation Volunteer*
+* *May 2016 to May 2016* China International Big Data Industry Expo 2016 *Translation Volunteer*
   * Accompanied the Canadian envoy to visit big data enterprises in Guizhou Province.
 
-* *Sep. 2016 to Sep. 2017** Foreign Language Volunteer Association of Guizhou University *Vice President*
+* *Sep. 2016 to Sep. 2017* Foreign Language Volunteer Association of Guizhou University *Vice President*
   * Assisted the Guiyang Foreign Affairs Office in organizing Guizhou University volunteers to participate in various foreign-related activities and foreign affairs training. For example, at the 2016 Libo International Animation Festival, served as the Deputy Head of the Foreign Guests Group, responsible for coordinating and accompanying more than 20 foreign guests.
   
-* *Sep. 2016 to Sep. 2017** Student Union of the School of Big Data and Information Engineering, Guizhou University *Director of Publicity Department* 
+* *Sep. 2016 to Sep. 2017* Student Union of the School of Big Data and Information Engineering, Guizhou University *Director of Publicity Department* 
   * Responsible for the publicity work of college student activities, including PS posters, invitations, video production with AE, Pr, and WeChat public account operation.
   
 Hobbies
