@@ -107,10 +107,10 @@ Certificates
 
 Activities
 ======
-* *May 2017 to May 2017** CHINA INTERNATIONAL BIG DATA INDUSTRY EXPO 2017 *Translation Volunteer*
+* *May 2017 to May 2017** China International Big Data Industry Expo 2017 *Translation Volunteer*
   * Accompanied domestic and foreign guests to visit eight observation routes in Guizhou Province.
   
-* *May 2016 to May 2016** CHINA INTERNATIONAL BIG DATA INDUSTRY EXPO 2016 *Translation Volunteer*
+* *May 2016 to May 2016** China International Big Data Industry Expo 2016 *Translation Volunteer*
   * Accompanied the Canadian envoy to visit big data enterprises in Guizhou Province.
 
 * *Sep. 2016 to Sep. 2017** Foreign Language Volunteer Association of Guizhou University *Vice President*
