@@ -13,7 +13,7 @@ toc: true
 * *Dec. 2019*, Second Scholarship of 'Cloud Guizhou', Guizhou Province, China
 * *Dec. 2018*, Excellent Student in Guizhou University, China
 * *Dec. 2018*, Second Scholarship in Guizhou University, China
-* *Oct. 2018*, First Prize of National Undergraduate Students Mathematical Contest in Guizhou Province, China.
+* *Oct. 2018*, First Prize of National Undergraduate Students Mathematical Contest in Guizhou Province, China
 * *Dec. 2017*, Excellent Student in Guizhou University, China
 * *Dec. 2017*, Second Scholarship in Guizhou University, China
 * *Dec. 2017*, Third Prize of the APMCM (Asia-Pacific Mathematical Contest in Modeling) for Undergraduate Students, China
