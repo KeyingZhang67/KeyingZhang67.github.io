@@ -23,4 +23,8 @@ I have involved in the following projects since 2022:
 * *Dec. 2023 to Dec. 2024*, China Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase II, ***Ongoing***
 * *Jun. 2022 to Dec. 2023*, China Southern Power Grid Production and Operation Support System (Transmission Domain) Cloud-Side Infrastructure and Base Application Construction Project Phase I, ***Completed***
 
-
+Hobbies
+======
+* Sports: Table Tennis, Badminton, Cruiser Skateboard
+* Arts: Oil Stick Painting, Oil Painting, Sketch
+* Misc: Investments, Wild Animals
