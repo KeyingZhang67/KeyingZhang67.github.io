@@ -16,7 +16,7 @@ toc: true
 * *Oct. 2018*, First Prize of National Undergraduate Students Mathematical Contest in Guizhou Province, China
 * *Dec. 2017*, Excellent Student in Guizhou University, China
 * *Dec. 2017*, Second Scholarship in Guizhou University, China
-* *Dec. 2017*, Third Prize of the APMCM (Asia-Pacific Mathematical Contest in Modeling) for Undergraduate Students, China
+* *Dec. 2017*, Third Prize of the Asia-Pacific Mathematical Contest in Modeling for Undergraduate Students, China
 * *Mar. 2017*, Second Prize of the 10th "Certification Cup" Mathematical Modeling Network Challenge, China
 * *May. 2016*, Second Prize of National English Contest for Undergraduate Students, China
 
