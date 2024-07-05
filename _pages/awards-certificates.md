@@ -6,7 +6,8 @@ author_profile: true
 toc: true
 ---
 ## Awards
-* *Dec. 2024*, Top Ten Outstanding Youth Award of Southern Power Grid Digital Grid Group Co., Ltd., China
+* *Jul. 2024*, Selected for the first batch of the "Industry Technology Young Talent" program by Southern Power Grid Digital Grid Group Co., Ltd., China
+* *May. 2024*, Top Ten Outstanding Youth Award of Southern Power Grid Digital Grid Group Co., Ltd., China
 * *Dec. 2023*, Gold Individual Innovation Award in China Southern Power Grid Digital Power Grid Group Co., Ltd., China
 * *Dec. 2022*, Best Paper Award of China Southern Power Grid International Technology Forum, China
 * *Dec. 2019*, Excellent Thesis Award of Guizhou University, China
